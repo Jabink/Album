@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="try_again">Some error occurred,try after some time</string>
+    <string name="users">Users</string>
+    <string name="albums">Albums</string>
+    <string name="gallery">Gallery</string>
+    <string name="locate">Find location</string>
+    <string name="call">Make a call</string>
+</resources>
